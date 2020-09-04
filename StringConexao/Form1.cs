@@ -20,7 +20,8 @@ namespace StringConexao
            
         }
         private void Form1_Load(object sender, EventArgs e)
-        {
+        {    
+            // Teste
             // TODO: esta linha de código carrega dados na tabela 'testeDataSet1.Cliente'. Você pode movê-la ou removê-la conforme necessário.
             //this.clienteTableAdapter.Fill(this.testeDataSet1.Cliente);
         }
